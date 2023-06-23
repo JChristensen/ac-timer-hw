@@ -228,8 +228,8 @@
 <text x="33.5" y="37.5" size="1.27" layer="21" ratio="16" rot="R90" align="bottom-center">GRN</text>
 <text x="51" y="37.5" size="1.27" layer="21" ratio="16" rot="R90" align="bottom-center">BLK</text>
 <text x="77" y="17.5" size="1.27" layer="21" ratio="16" align="bottom-center">RTC Module</text>
-<text x="6" y="18" size="1.27" layer="21" ratio="16" rot="SR0" align="bottom-center">120VAC</text>
-<text x="0.5" y="13" size="1.27" layer="21" ratio="16" rot="SR270" align="bottom-center">L      N</text>
+<text x="5.5" y="13.5" size="1.27" layer="21" ratio="16" rot="SR0" align="bottom-center">120VAC</text>
+<text x="5.5" y="23.5" size="1.27" layer="21" ratio="16" rot="SR0" align="bottom-center">L      N</text>
 </plain>
 <libraries>
 <library name="_jc">
@@ -4079,8 +4079,8 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <element name="JP2" library="SparkFun" package="AVR_ICSP" value="M05X2PTH" x="21.5" y="36.5" smashed="yes" rot="R270">
 <attribute name="VALUE" x="21.246" y="39.294" size="0.4064" layer="27" font="vector"/>
 </element>
-<element name="J1" library="_jc" package="OST-TB-2-3.5MM" value="" x="6" y="13" smashed="yes" rot="R270">
-<attribute name="VALUE" x="0.5" y="16" size="1.27" layer="21" ratio="16" rot="R270"/>
+<element name="J1" library="_jc" package="OST-TB-2-3.5MM" value="" x="5.5" y="19" smashed="yes" rot="R180">
+<attribute name="VALUE" x="8.5" y="24.5" size="1.27" layer="21" ratio="16" rot="R180"/>
 </element>
 <element name="R5" library="_jc" package="M0805" value="330" x="47.5" y="28" smashed="yes" rot="R180">
 <attribute name="NAME" x="49" y="26.5" size="0.8128" layer="25" ratio="16" rot="R180"/>
