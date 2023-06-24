@@ -1,0 +1,32 @@
+Partlist
+
+Exported from ac-timer.brd at 6/24/23 3:56 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package       Library  Position (mm)         Orientation
+
+A1       IRM-01-5       IRM-01        _jc      (12 0.5)              R0
+A2       RTC module     RTC79412      _jc      (71.5 19.5)           R90
+C1       100nF          M0805         _jc      (39.5 15.5)           MR90
+C2       10uF           M0805         _jc      (36.5 15.5)           MR90
+C3       100nF          M0805         _jc      (53 19.5)             R180
+C4       27pF           M0805         _jc      (48.6 15.2)           R90
+C5       27pF           M0805         _jc      (48.6 8.4)            R270
+C6       100nF          M0805         _jc      (69.4 14.5)           R0
+C7       100nF          M0805         _jc      (69.4 17)             R0
+C8       100nF          M0805         _jc      (57.4 38.9)           R90
+D1       1N4148         SOD-323F      _jc      (64.3 38.9)           R90
+J1                      OST-TB-2-0.20 _jc      (6 14.5)              R180
+JP1      FTDI           1X06_LOCK     SparkFun (48.14 37.5)          R180
+JP2      M05X2PTH       AVR_ICSP      SparkFun (21.5 36.5)           R270
+L1       10uH           M0805         _jc      (69.4 11.95)          R180
+R1       10K            M0805         _jc      (61.5 38.9)           R90
+R2       330            M0805         _jc      (50.5 28.5)           R180
+R3       330            M0805         _jc      (50.5 26)             R180
+R4       330            M0805         _jc      (50.5 23.5)           R180
+S1       RESET          B3F-10XXOCT   _jc      (75.28 38.15)         R180
+U1       ATmega328P-PU  DIL28-3       SparkFun (61.28 18.25)         R270
+Y1       16MHz 18pF     RESONATOR     _jc      (52.71 11.82)         R270
