@@ -368,10 +368,10 @@ Jameco #2120647</description>
 <wire x1="0" y1="21.2" x2="1" y2="22.2" width="0.127" layer="21" curve="-90"/>
 <wire x1="1" y1="22.2" x2="32.7" y2="22.2" width="0.127" layer="21"/>
 <wire x1="32.7" y1="22.2" x2="33.7" y2="21.2" width="0.127" layer="21" curve="-90"/>
-<pad name="V-" x="30.85" y="18.7" drill="0.8" diameter="1.4224" shape="octagon"/>
-<pad name="V+" x="30.85" y="11.1" drill="0.8" diameter="1.4224" shape="octagon"/>
-<pad name="AC/L" x="2.85" y="3.5" drill="0.8" diameter="1.4224" shape="octagon"/>
-<pad name="AC/N" x="2.85" y="18.7" drill="0.8" diameter="1.4224" shape="octagon"/>
+<pad name="V-" x="30.85" y="18.7" drill="0.9" diameter="1.6764" shape="octagon"/>
+<pad name="V+" x="30.85" y="11.1" drill="0.9" diameter="1.6764" shape="octagon"/>
+<pad name="AC/L" x="2.85" y="3.5" drill="0.9" diameter="1.9304" shape="octagon"/>
+<pad name="AC/N" x="2.85" y="18.7" drill="0.9" diameter="1.9304" shape="octagon"/>
 <text x="2.46" y="5.81" size="1.27" layer="21" ratio="16">AC
 Line</text>
 <text x="2.46" y="13.19" size="1.27" layer="21" ratio="16">AC
@@ -4417,16 +4417,16 @@ jc mods for clearance, distance, sizes, supply, masks</description>
 <signal name="N$8">
 <contactref element="A1" pad="AC/N"/>
 <contactref element="J1" pad="P$2"/>
-<wire x1="14.85" y1="19.2" x2="10.159" y2="14.509" width="0.4064" layer="1"/>
-<wire x1="10.159" y1="14.509" x2="8.532" y2="14.509" width="0.4064" layer="1"/>
+<wire x1="14.85" y1="19.2" x2="10.159" y2="14.509" width="0.8128" layer="1"/>
+<wire x1="10.159" y1="14.509" x2="8.532" y2="14.509" width="0.8128" layer="1"/>
 </signal>
 <signal name="N$9">
 <contactref element="A1" pad="AC/L"/>
 <contactref element="J1" pad="P$1"/>
-<wire x1="14.85" y1="4" x2="8.85" y2="10" width="0.4064" layer="1"/>
-<wire x1="3.452" y1="12.048" x2="3.452" y2="14.509" width="0.4064" layer="1"/>
-<wire x1="8.85" y1="10" x2="5.5" y2="10" width="0.4064" layer="1"/>
-<wire x1="5.5" y1="10" x2="3.452" y2="12.048" width="0.4064" layer="1"/>
+<wire x1="14.85" y1="4" x2="9.35" y2="9.5" width="0.8128" layer="1"/>
+<wire x1="5.5" y1="9.5" x2="9.35" y2="9.5" width="0.8128" layer="1"/>
+<wire x1="3.452" y1="14.509" x2="3.452" y2="11.548" width="0.8128" layer="1"/>
+<wire x1="3.452" y1="11.548" x2="5.5" y2="9.5" width="0.8128" layer="1"/>
 </signal>
 </signals>
 <mfgpreviewcolors>

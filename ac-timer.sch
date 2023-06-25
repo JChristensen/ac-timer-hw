@@ -4982,10 +4982,10 @@ Jameco #2120647</description>
 <wire x1="0" y1="21.2" x2="1" y2="22.2" width="0.127" layer="21" curve="-90"/>
 <wire x1="1" y1="22.2" x2="32.7" y2="22.2" width="0.127" layer="21"/>
 <wire x1="32.7" y1="22.2" x2="33.7" y2="21.2" width="0.127" layer="21" curve="-90"/>
-<pad name="V-" x="30.85" y="18.7" drill="0.8" diameter="1.4224" shape="octagon"/>
-<pad name="V+" x="30.85" y="11.1" drill="0.8" diameter="1.4224" shape="octagon"/>
-<pad name="AC/L" x="2.85" y="3.5" drill="0.8" diameter="1.4224" shape="octagon"/>
-<pad name="AC/N" x="2.85" y="18.7" drill="0.8" diameter="1.4224" shape="octagon"/>
+<pad name="V-" x="30.85" y="18.7" drill="0.9" diameter="1.6764" shape="octagon"/>
+<pad name="V+" x="30.85" y="11.1" drill="0.9" diameter="1.6764" shape="octagon"/>
+<pad name="AC/L" x="2.85" y="3.5" drill="0.9" diameter="1.9304" shape="octagon"/>
+<pad name="AC/N" x="2.85" y="18.7" drill="0.9" diameter="1.9304" shape="octagon"/>
 <text x="2.46" y="5.81" size="1.27" layer="21" ratio="16">AC
 Line</text>
 <text x="2.46" y="13.19" size="1.27" layer="21" ratio="16">AC

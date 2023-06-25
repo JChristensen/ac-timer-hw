@@ -1,6 +1,6 @@
 Partlist
 
-Exported from ac-timer.brd at 6/24/23 7:44 PM
+Exported from ac-timer.brd at 6/24/23 8:41 PM
 
 EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
 
