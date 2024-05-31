@@ -1,0 +1,30 @@
+AC Daily Timer,,,,,
+Copyright (C) 2023-2024 by Jack Christensen and licensed under CC-BY-SA-4.0.,,,,,
+https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=c48290707f,,,,,
+,,,,,
+Part #,Qty,Mouser #,Description,Manufacturer,Mfr. #
+A1,1,709-IRM01-5,AC/DC Power Module 1W 5V 200mA,MEAN WELL,IRM-01-5
+A2,1,n/a,Real-time clock module,JChristensen,https://github.com/JChristensen/rtc79412
+"C1,3,6,7,8",5,581-08053C104KAT4A,MLCC 25V 0.1uF 0805,KYOCERA AVX,08053C104KAT4A
+C2,1,187-CL21A106KPCLQNC,MLCC 10uF 10V 0805,Samsung Electro-Mechanics,CL21A106KPCLQNC
+"C4,5",2,77-VJ0805A270GXXPBC,MLCC 0805 27pF 25volts C0G 2%,Vishay,VJ0805A270GXXPW1BC
+D1,1,512-1N4148WS,Small Signal Diode,onsemi,1N4148WS
+J1,1,651-1935161,"Terminal block, 2 position, 5.08mm pitch",Phoenix Contact,1935161
+JP1,1,,"2.54mm header, male, 1x6",generic,
+JP2,1,,"2.54mm header, male, 2x5",generic,
+L1,1,963-LBR2012T100K,Inductor 0805 10uH,TAIYO YUDEN,LBR2012T100K
+R1,1,660-RK73H1JTTDD1002F,Thick Film Resistor 10k ohms,KOA Speer,RK73H1JTTDD1002F
+"R2,3,4",3,660-RK73H1JTTDD3300F,Thick Film Resistor 330 ohms,KOA Speer,RK73H1JTTDD3300F
+S1,1,653-B3F-1020,Tactile Button Switch,Omron,B3F-1020
+U1,1,556-ATMEGA328P-PU,8-bit Microcontroller,Microchip,ATMEGA328P-PU
+Y1,1,774-ATS16B-E,"Crystal, 16MHz 18pF 30ppm",CTS,ATS16B-E
+,1,,"Solid State Relay, 40A",SparkFun Electronics,COM-13015
+,1,,"Square metallic electrical box, 4 in. x 2⅛ in. deep (30.3 cu. in.), ½ in. knockouts",,
+,1,,Cover for above box,,
+,1,,Duplex receptacle,,
+,1,,14-gauge power cable,,
+,1,,½ in. cable clamp,,
+,1,,"Red LED, 5mm",generic,
+,1,,"Yellow LED, 5mm",generic,
+,1,,"Green LED, 5mm",generic,
+,1,,Pushbutton switch,generic,"SparkFun COM-11992, Jameco 26623, or similar"

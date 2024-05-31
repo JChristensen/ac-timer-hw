@@ -22,7 +22,6 @@
 *.pro
 
 #Other files
-*.zip
 *.png
 *.xls
 *.xlsx
